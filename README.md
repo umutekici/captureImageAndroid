@@ -1,1 +1,1 @@
-Android Studio projesi. Kamera üzerinden çekilen fotoğrafı yakalayan program.
+Android Studio project. Program that captures the photo taken from the camera.
